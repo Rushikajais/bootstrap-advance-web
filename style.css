@@ -1,0 +1,14 @@
+.carousel{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.hori{
+    border: 5px  solid cyan;
+}
+.ten{
+    font-style:italic; 
+    color:white;
+    padding: 35px 453px;
+}
